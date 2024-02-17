@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tusharp161
 - 👀 I’m interested in Android, Java, Kotlin, Flutter, Appium, Selenium
-- 🌱 I’m currently learning Python, Azure
-- 💞️ I’m looking to collaborate on Python, testing , Android
+- 🌱 I’m currently learning Python, Azure, LLM 
+- 💞️ I’m looking to collaborate on Python, testing , Android, LLM, GenAI, ConversationalAI 
 - 📫 How to reach me tusharp161@gmail.com
 
 <!---
